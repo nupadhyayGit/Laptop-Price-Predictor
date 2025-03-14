@@ -1,5 +1,0 @@
-1. The dataset has few 1303 records only. More data would have helped in getting a better model.
-
-2. Unwanted columns present in the dataset.
-
-3. The dataset needs lot of Feature Engineering as the columns and it's values has lots of separate pieces of information stored as one value. Ex: ScreenResolution, Cpu, Gpu
